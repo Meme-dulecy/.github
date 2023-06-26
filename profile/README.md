@@ -5,6 +5,7 @@
 
 # Memedulecy (밈들레씨)
 가까운 곳에 있는 사람들과 이미지와 텍스트로 간단하게 소통해 보세요!
+
 </div>
 
 <br>
@@ -15,6 +16,12 @@
 * Typescript
 * Styled-components
 * Axios
+* Recoil
+* Socket.IO
 
 ### Back-end
-* Typescript 
+* Typescript
+* Nestjs
+* Axios
+* Typeorm
+* Socket.IO
