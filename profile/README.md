@@ -13,7 +13,7 @@
 <br>
 <br>
 
-### Front-end
+### Frontend
 * React
 * Typescript
 * Styled-components
@@ -21,7 +21,7 @@
 * Recoil
 * Socket.IO
 
-### Back-end
+### Backend
 * Typescript
 * Nestjs
 * Axios
